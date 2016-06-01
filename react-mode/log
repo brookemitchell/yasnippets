@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: Brooke Mitchell
+# name: log
+# key: lg
+# --
+console.log($1)

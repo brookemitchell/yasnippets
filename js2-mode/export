@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: Brooke Mitchell
+# name: export
+# key: export
+# --
+export $1 from './$2'
+$0

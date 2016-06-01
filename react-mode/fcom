@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# contributor: Brooke Mitchell
+# name: fcom
+# key: fcom
+# --
+import React, { PropTypes } from 'react'
+
+export default function $1 (props) {
+  return (
+    $0
+  )
+}
+
+$1.proptypes = {}
