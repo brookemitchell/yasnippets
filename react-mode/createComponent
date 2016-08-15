@@ -1,12 +1,14 @@
 # -*- mode: snippet -*-
 # contributor: Brooke Mitchell
-# name: fcom
-# key: fcom
+# name: React: component skeleton
+# key: rcc
 # --
 import React, { PropTypes } from 'react'
+import $2 from
 
 export default function $1 (props) {
   return (
+    <$2 />
     $0
   )
 }

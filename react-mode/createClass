@@ -1,14 +1,14 @@
 # -*- mode: snippet -*-
 # contributor: Brooke Mitchell
 # name: React.createClass
-# key: recc
+# key: rcC
 # --
 import React from 'react'
 
 const $1 = React.createClass({
   render () {
     return (
-      $0
+      <div>$1</div>
  )},
 
 })
