@@ -3,7 +3,13 @@
 # name: reducer
 # key: rred
 # --
-function $1 (state = initialUsersDuckState, action) {
+import { fromJS, List }
+
+const initialState = fromJS({
+      $2
+})
+
+function $1 (state = initialState, action) {
   switch (action.type) {
   case $2:
     return {
